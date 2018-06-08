@@ -39,7 +39,7 @@ public class Pracetice1OnTestng {
 		System.out.println("aftermethod");
 	}
 	
-	@AfterClass//登出操作
+	@AfterClass//登出操作1
 	public void afterClass(){
 		System.out.println("afterclass");
 	}
